@@ -8,7 +8,7 @@ from langchain.embeddings.openai import OpenAIEmbeddings
 from langchain.chains import RetrievalQA
 from langchain.llms import OpenAI
 
-print("Hellog")
+print("Hello ds")
 
 # OpenAI API anahtarınızı buraya girin
 openai.api_key = "OPENAI_API_KEY"
