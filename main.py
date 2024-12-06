@@ -11,7 +11,7 @@ from langchain.llms import OpenAI
 print("Hello")
 
 # OpenAI API anahtarınızı buraya girin
-openai.api_key = "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"
+openai.api_key = "OPENAI_API_KEY"
 
 def read_pdf(file_path):
     """PDF dosyasını metne çevir."""
